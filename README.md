@@ -12,7 +12,7 @@ To write a program to predict the marks scored by a student using the simple lin
 1. Import the needed packages.
 2. Assigning hours To X and Scores to Y.
 3. Plot the scatter plot.
-4. Use mse,rmse,mae formmula to find the values.
+4. Use mse,rmse,mae formula to find the values.
 
 
 ## Program:
